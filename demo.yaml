@@ -21,7 +21,7 @@ spec:
         app: demo
     spec:
       containers:
-      - image: webofmars/colors:blue
+      - image: webofmars/colors:yellow
         name: color
         resources:
           limits:
